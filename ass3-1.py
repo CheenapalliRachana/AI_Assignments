@@ -1,0 +1,11 @@
+import numpy as np
+x=np.array([1,2,3,4])
+y=np.array([5.5,6.5,7.5,8.5])
+z=np.add(x,y)
+print(z)
+s=np.subtract(x,y)
+print(s)
+m=np.multiply(x,y)
+print(m)
+d=np.divide(x,y)
+print(d)
